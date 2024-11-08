@@ -9,5 +9,6 @@
         git
         vscode
         bindfs
+        brave
     ];
 }
